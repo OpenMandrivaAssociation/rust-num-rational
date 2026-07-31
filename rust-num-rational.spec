@@ -5,8 +5,8 @@
 %global crate num-rational
 
 Name:           rust-%{crate}
-Version:        0.2.3
-Release:        2%{?dist}
+Version:        0.4.2
+Release:        1%{?dist}
 Summary:        Rational numbers implementation for Rust
 
 # Upstream license specification: MIT/Apache-2.0
